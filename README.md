@@ -1,31 +1,3 @@
-<div align="center">
-  <img width="600" src="assets/spotube_banner.png" alt="Spotube Logo">
-
-An open source, cross-platform Spotify client compatible across multiple platforms<br />
-utilizing Spotify's data API and YouTube, Piped.video or JioSaavn as an audio source,<br />
-eliminating the need for Spotify Premium
-
----
-
-</div>
-
-## 🌃 Features
-
-- 🚫 No ads, thanks to the use of public & free Spotify and YT Music APIs¹
-- ⬇️ Freely downloadable tracks
-- 🖥️ 📱 Cross-platform support
-- 🪶 Small size & less data usage
-- 🕵️ Anonymous/guest login
-- 🕒 Time synced lyrics
-- ✋ No telemetry, diagnostics or user data collection
-- 🚀 Native performance
-- 📖 Open source/libre software
-- 🔉 Playback control is done locally, not on the server
-
-**¹** It is still **recommended** to support creators by engaging with their YouTube channels/Spotify tracks (or preferably by buying their merch/concert tickets/physical media).
-
-### ❌ Unsupported features
-
 ## 📜 ⬇️ Installation guide
 
 New versions usually release every 3-4 months.<br />
